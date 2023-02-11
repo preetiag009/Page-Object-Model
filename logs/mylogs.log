@@ -1,0 +1,22 @@
+20230208 19:25:42 DEBUG [main] salesForce.log4jTest log4jTest.java11 - This is a debug message1
+20230208 19:25:42 INFO  [main] salesForce.log4jTest log4jTest.java12 - This is an info message1
+20230208 19:25:42 WARN  [main] salesForce.log4jTest log4jTest.java13 - This is a warn message1
+20230208 19:25:42 ERROR [main] salesForce.log4jTest log4jTest.java14 - This is an error message1
+20230208 19:25:42 FATAL [main] salesForce.log4jTest log4jTest.java15 - This is a fatal message1
+20230208 20:00:39 DEBUG [main] salesForce.SalesForceAutomation SalesForceAutomation.java55 - This is a debug message1
+20230208 20:00:39 INFO  [main] salesForce.SalesForceAutomation SalesForceAutomation.java56 - This is an info message1
+20230208 20:02:56 DEBUG [main] salesForce.SalesForceAutomation SalesForceAutomation.java55 - This is a debug message1
+20230208 20:02:56 INFO  [main] salesForce.SalesForceAutomation SalesForceAutomation.java56 - This is an info message1
+20230208 20:14:45 DEBUG [main] salesForce.SalesForceAutomation SalesForceAutomation.java55 - This is a debug message1
+20230208 20:14:45 INFO  [main] salesForce.SalesForceAutomation SalesForceAutomation.java56 - This is an info message1
+20230208 21:55:49 INFO  [main] salesForce.SalesForceAutomation SalesForceAutomation.java57 - Method:loginToSalesForce2
+20230208 22:01:36 INFO  [main] salesForce.SalesForceAutomation SalesForceAutomation.java57 - Method:loginToSalesForce2
+20230208 22:05:52 INFO  [main] salesForce.SalesForceAutomation SalesForceAutomation.java57 - Method:loginToSalesForce2
+20230208 22:07:00 INFO  [main] salesForce.SalesForceAutomation SalesForceAutomation.java58 - Method:loginToSalesForce2
+20230208 22:09:48 INFO  [main] salesForce.SalesForceAutomation SalesForceAutomation.java58 - Method:loginToSalesForce2
+20230208 22:37:08 INFO  [main] salesForce.SalesForceAutomation SalesForceAutomation.java58 - Method:loginToSalesForce2
+20230209 08:26:09 INFO  [main] salesForce.SalesForceAutomation SalesForceAutomation.java58 - Method:loginToSalesForce2
+20230209 08:30:22 INFO  [main] salesForce.SalesForceAutomation SalesForceAutomation.java58 - Method:loginToSalesForce2
+20230209 09:07:08 DEBUG [main] salesForce.SalesForceAutomation SalesForceAutomation.java56 - This is a debug message1
+20230209 09:07:08 WARN  [main] salesForce.SalesForceAutomation SalesForceAutomation.java57 - This is a warn message1
+20230209 09:07:08 INFO  [main] salesForce.SalesForceAutomation SalesForceAutomation.java58 - Method:loginToSalesForce2
