@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="salesForce.SalesForceAutomation">
+      <class name="projectObjectModel.AutomationTestsPOM">
         <methods>
-          <include name="setUpBeforeTest"/>
-          <include name="blockingEvent36"/>
+          <include name="checkRememberme3"/>
         </methods>
-      </class> <!-- salesForce.SalesForceAutomation -->
+      </class> <!-- projectObjectModel.AutomationTestsPOM -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
