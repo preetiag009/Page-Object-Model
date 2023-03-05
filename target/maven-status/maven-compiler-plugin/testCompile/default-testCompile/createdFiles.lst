@@ -1,5 +1,11 @@
-projectObjectModel\HomePage.class
-projectObjectModel\CheckYourEmailPage.class
-projectObjectModel\loginPage.class
-projectObjectModel\ForgotPasswordPage.class
-projectObjectModel\AutomationTestsPOM.class
+com\Runners\RunnersForLogin.class
+com\steps\BaseTest.class
+com\steps\CheckYourEmailPage.class
+com\steps\HomePage.class
+com\steps\LoginPage.class
+utility\Constants.class
+com\steps\StepDefinitionForLogin.class
+utility\ExtentReportsUtility.class
+com\steps\ForgotPasswordPage.class
+utility\DataUtility.class
+utility\ListernersUtility.class
